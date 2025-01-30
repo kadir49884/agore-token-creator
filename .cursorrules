@@ -1,0 +1,15 @@
+{
+  "rules": [
+    "Bu klasör Python tabanlı token sunucusunu içerir",
+    "FastAPI framework kullanılmalıdır",
+    "Tüm endpoint'ler async/await ile yazılmalıdır",
+    "Her endpoint için input validasyonu yapılmalıdır",
+    "Tüm hata durumları ele alınmalıdır",
+    "Rate limiting uygulanmalıdır",
+    "Token üretimi güvenli bir şekilde yapılmalıdır",
+    "Tüm işlemler loglanmalıdır",
+    "Environment variable'lar .env dosyasından alınmalıdır"
+  ],
+  "autoFormat": true,
+  "language": "python"
+} 
